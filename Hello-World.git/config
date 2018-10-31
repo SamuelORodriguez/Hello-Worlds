@@ -1,0 +1,10 @@
+[core]
+	autocrlf = false
+	repositoryformatversion = 0
+	filemode = false
+	bare = true
+	symlinks = false
+	autocrlf = false
+	ignorecase = true
+[remote "origin"]
+	url = https://github.com/SamuelORodriguez/Hello-World.git
