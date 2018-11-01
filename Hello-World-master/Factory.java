@@ -1,4 +1,4 @@
-package Currency;
+
 
 class CurrencyFactory {
 	 

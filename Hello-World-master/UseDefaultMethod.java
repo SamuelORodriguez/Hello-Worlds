@@ -1,10 +1,10 @@
-package org.example.java8;
+
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.function.Predicate;
 
-import org.example.java8.model.Person;
+
 
 public class UseDefaultMethod {
 	public static void main(String args[]){

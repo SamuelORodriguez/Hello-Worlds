@@ -1,4 +1,3 @@
-package sandwichExample;
 
 import java.math.BigDecimal;
 

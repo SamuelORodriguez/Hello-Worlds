@@ -1,4 +1,3 @@
-package com.srodriguez;
 
 public class Main {
 

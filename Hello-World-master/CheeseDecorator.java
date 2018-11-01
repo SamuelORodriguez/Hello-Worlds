@@ -1,4 +1,4 @@
-package sandwichExample;
+
 
 import java.math.BigDecimal;
 /** * A Decorator class, which adds cheese (new functionality) into Sandwich object.

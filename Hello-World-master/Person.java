@@ -1,6 +1,4 @@
-package org.example.java8.model;
 
-import org.example.java8.interfaces.PersonInterface;
 
 public class Person implements PersonInterface {
 	private String name;
@@ -21,6 +19,10 @@ public class Person implements PersonInterface {
 	}
 	public void setAge(int age) {
 		this.age = age;
+	}
+	public char[] getPersonInfo() {
+		// TODO Auto-generated method stub
+		return null;
 	}
 
 }

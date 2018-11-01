@@ -1,10 +1,9 @@
-package org.example.java8;
+
 
 import java.util.ArrayList;
+
 import java.util.Collections;
 import java.util.List;
-
-import org.example.java8.model.Person;
 
 public class InstanceMethodReference {
 

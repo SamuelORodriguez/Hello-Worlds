@@ -1,10 +1,9 @@
-package org.example.java8;
+
 
 import java.util.ArrayList;
+
 import java.util.List;
 import java.util.OptionalDouble;
-
-import org.example.java8.model.Person;
 
 public class SumAndAverage {
 

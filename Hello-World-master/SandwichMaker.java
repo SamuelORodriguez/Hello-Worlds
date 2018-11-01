@@ -1,4 +1,4 @@
-package sandwichExample;
+
 /**
  * Test class to demonstrate How Decorator Pattern in Java work together. This class
  * first creates a Sandwich and decorates it with extra cheese. This is nice example

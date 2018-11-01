@@ -1,4 +1,4 @@
-package Currency;
+
 
 abstract class Currency {
 	 
